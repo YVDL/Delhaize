@@ -1,0 +1,16 @@
+
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷¸ş¥şÿÿÿÿ
+F
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+D
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw
+S
+java:S1128"8Remove this unused import 'com.delhaize.domain.Product'.(Æìñúÿÿÿÿ
+F
+java:S1128	"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+D
+java:S6212"/Declare this local variable with "var" instead.(—ŒØ
+J
+java:S6212"/Declare this local variable with "var" instead.(÷¸ş¥şÿÿÿÿ
